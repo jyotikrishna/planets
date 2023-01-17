@@ -3,4 +3,9 @@ The two moons may be a problem for Wolfman.
 But the mummy will appreciate the lack of humidity.
 
 this line is added to make your life difficult. who wants an easy life am i right?
+<<<<<<< HEAD
 Owner adds a different line in another copy.
+=======
+
+stop destroying the lecture
+>>>>>>> 625ab51a0b482318beee80f08b7052551071997d
